@@ -20,7 +20,11 @@ The model predicts the mpg of the MechaCar prototype with effectiveness as the r
 
 ## II. Create Visualizations for the Trip Analysis
 
+### A. Total Summary
+
 ![](images/DEL2.1.PNG)
+
+### B. Lot Summary
 
 ![](images/DEL2.2.PNG)
 
