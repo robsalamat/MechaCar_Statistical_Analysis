@@ -30,11 +30,19 @@ The model predicts the mpg of the MechaCar prototype with effectiveness as the r
 
 ## III.T-Tests on Suspension Coils
 
+### A. All Lots
+
 ![](images/DEL3.1.PNG)
+
+### B. Lot 1
 
 ![](images/DEL3.2.PNG)
 
+### C. Lot 2
+
 ![](images/DEL3.3.PNG)
+
+### D. Lot 3
 
 ![](images/DEL3.4.PNG)
 
