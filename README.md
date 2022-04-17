@@ -20,8 +20,9 @@ The model predicts the mpg of the MechaCar prototype with effectiveness as the r
 
 ## II. Create Visualizations for the Trip Analysis
 
+![](images/DEL2.1.PNG)
 
-
+![](images/DEL2.2.PNG)
 
 ## III.T-Tests on Suspension Coils
 
