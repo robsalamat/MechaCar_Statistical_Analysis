@@ -35,7 +35,7 @@ The model predicts the mpg of the MechaCar prototype with effectiveness as the r
 ![](images/DEL3.1.PNG)
 
 T-Test: not statistically different from the population mean
-p-value: can't reject the null hypothesis.
+p-value: can't reject the null hypothesis
 
 ### B. Lot 1
 
@@ -54,7 +54,7 @@ p-value: can't reject the null hypothesis.
 
 ![](images/DEL3.4.PNG)
 
-T-Test: not statistically different from the population mean
-p-value: can't reject the null hypothesis.
+T-Test:  slightly statistically different from the population mean
+p-value: low enough to reject the null hypothesis
 
 ## IV. Study Comparing the MechaCar to the Competition
