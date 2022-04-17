@@ -14,11 +14,14 @@ The p-value is 5.35x10-11, and the slope of the linear model can't be considered
 
 ### 3.Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
 
-
+The model predicts the mpg of the MechaCar prototype with effectiveness as the r-squared value of 0.7149. A value above 0.7  generally indicates strong effectivity as they are closer to 1.
 
 
 
 ## II. Create Visualizations for the Trip Analysis
+
+
+
 
 ## III.T-Tests on Suspension Coils
 
