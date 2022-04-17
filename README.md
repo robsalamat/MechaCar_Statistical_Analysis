@@ -28,7 +28,13 @@ The model predicts the mpg of the MechaCar prototype with effectiveness as the r
 
 ![](images/DEL2.2.PNG)
 
+
 ## III.T-Tests on Suspension Coils
+
+
+
+
+
 
 ### A. All Lots
 
@@ -63,3 +69,16 @@ T-Test:  slightly statistically different from the population mean
 p-value: can reject the null hypothesis
 
 ## IV. Study Comparing the MechaCar to the Competition
+
+### A. New Metric for the Study
+Aside from Price and fuel efficiency, the most common factor in buying a car would be ***the storage capacity***.
+
+### B. Null and Alternative hypothesis 
+Null: MechaCar's storage capacity is the same as similar vehicles from the competitor.
+Alternative: MechaCar's storage capacity is bigger/smaller than similar vehicles from the competitor.
+
+### C. Statistical Test
+For this study, we will use the two-sample t-tests.
+
+### D. Data Needed
+We will need to gather storage capacity data from all major competitors of MechaCar.
