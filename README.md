@@ -60,6 +60,6 @@ p-value: can't reject the null hypothesis.
 
 T-Test:  slightly statistically different from the population mean
 
-p-value: low enough to reject the null hypothesis
+p-value: can reject the null hypothesis
 
 ## IV. Study Comparing the MechaCar to the Competition
